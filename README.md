@@ -225,4 +225,4 @@ License:
 --------
 
 This project contains code from multiple projects using various licenses. Please look at LOVE
-[license.txt](https://github.com/love2d/love/blob/master/license.txt) for the respective licenses.
+[license.txt](https://github.com/love2d/love/blob/master/license.txt) for the respective licenses. 
